@@ -82,4 +82,9 @@
 ### Screenshots:
 
 - Webapp:
-  ![Screenshot 1](./screenshots/screenshot1.png)
+
+  - Case "PCOS Positive":
+    ![Screenshot 1](./screenshots/screenshot1.png)
+
+  - Case "PCOS Negative":
+    ![Screenshot 2](./screenshots/screenshot2.png)
